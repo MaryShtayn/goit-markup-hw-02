@@ -1,15 +1,112 @@
-.logo-blue {
-  font-family: Raleway;
-  color: #2196f3;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 30.52px;
+body {
+  color: #212121;
+  font-family: Roboto;
+  width: 1600px;
 }
-#logo {
+
+.logo {
   text-decoration: none;
-  font-family: 'Oleo Script', cursive;
+  font-family: Raleway;
   color: #000000;
   font-weight: 400;
   font-size: 26px;
-  line-height: 35.96px;
+  line-height: 31px;
+  position: absolute;
+  width: 145px;
+  margin-left: 215px;
+  margin-top: 24px;
+  letter-spacing: 0.03em;
+}
+.logo span {
+  color: #2196f3;
+  font-weight: 700;
+  line-height: 30.52px;
+}
+
+.nav {
+}
+.nav-item {
+}
+.nav-link {
+}
+.contacts-links {
+}
+.contacts-item {
+}
+.contacts-link {
+}
+.hero {
+}
+.hero-title {
+}
+.hero-btn {
+}
+.features {
+}
+.visually-hidden {
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  margin: -1px;
+}
+.features-description {
+}
+.feature-item {
+}
+.feature-title {
+}
+.feature-text {
+}
+.services {
+}
+.services-title {
+}
+.services-list {
+}
+.services-item {
+}
+.services-img {
+}
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-item {
+}
+.team-img {
+}
+.address {
+}
+.mail {
+}
+.tel {
+}
+
+/*CSS for Portfolio*/
+
+.portfolio {
+}
+.portfolio-btns-list {
+}
+.portfolio-btn-item {
+}
+.portfolio-btn {
+}
+.cards-list {
+}
+.card-item {
+}
+.card-img {
+}
+.card-title {
+}
+.card-discription {
 }
